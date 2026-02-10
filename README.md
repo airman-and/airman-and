@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Andy Cho
 
-🎓 **Graduate Student** researching AI & Deep Learning
+🎓 **Undergraduate** at SKKU AAI, researching AI & Deep Learning
 
 ## 🔬 Research Interests
 - 🤖 **Robot Learning** — Vision-Language-Action (VLA) models for robot manipulation
